@@ -1,7 +1,12 @@
 const { connect, connection } = require('mongoose');
+require('dotenv').config();
 
-const connectionString = 'mongodb://127.0.0.1:27017/socialnetworkDB';
 
-connect(connectionString);
+const connectionString = process.env.MONGOURI 
+
+connect(connectionString, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+});
 
 module.exports = connection;
