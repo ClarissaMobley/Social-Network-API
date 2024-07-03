@@ -22,6 +22,10 @@ A social network API that allows users to create an account, post thoughts, and 
 ## Screen Recording
 [Social Network Screen Recording](https://drive.google.com/file/d/1O42DG3njioD_aISiVVksfMvzgy0DqoeR/view?usp=sharing)
 
+https://github.com/ClarissaMobley/Social-Network-API/assets/159193547/4640569a-7b84-4cb6-8ba3-f9547ac278ee
+
+
+
 ## Built With
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
